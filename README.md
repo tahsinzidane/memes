@@ -4,7 +4,7 @@
 <small>you can't reject me</small>
 <img src="./1-love_on_hover/assets/imgs/preview.gif">
 
-[try it]([https://tahsinzidane.github.io/memes/7-love_on_hover_v2/](https://tahsinzidane.github.io/memes/1-love_on_hover/))
+[try it](https://tahsinzidane.github.io/memes/1-love_on_hover/)
 <br><br>
 
 <h3>2-jadugar </h3>
