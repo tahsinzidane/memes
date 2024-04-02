@@ -11,4 +11,4 @@
 <small>mind reading</small> 
 <img src="./2-jadugar/assets/preview.gif">
 
-[try it]([https://tahsinzidane.github.io/memes/jadugar/](https://tahsinzidane.github.io/memes/2-jadugar/))
+[try it](https://tahsinzidane.github.io/memes/2-jadugar/)
